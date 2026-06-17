@@ -7,7 +7,7 @@
 
 ## Overview
 
-A realistic outdoor 3D environment in Unity featuring terrain, trees, grass, rocks, and a complete runtime wind simulation system. The wind affects trees, grass, falling leaves, and physics objects — and can be adjusted live during gameplay through an in-game UI panel without pausing or restarting the scene.
+A realistic outdoor 3D environment in Unity featuring terrain, trees, grass, rocks, and a complete runtime wind simulation system. The wind affects trees, grass, falling leaves, and physics objects and can be adjusted live during gameplay through an in-game UI panel without pausing or restarting the scene.
 
 ---
 
@@ -23,10 +23,10 @@ A realistic outdoor 3D environment in Unity featuring terrain, trees, grass, roc
 
 - **Terrain** — sculpted terrain with multiple painted texture layers (grass, soil, mud, sand), rolling hills, and a dirt path
 - **Trees & Grass** — SpeedTree-compatible assets from Unity's official Terrain Sample Assets, responding natively to WindZone
-- **Runtime Wind Control UI** — in-game panel with input fields for wind speed, strength, direction, and turbulence — all applied instantly without scene restart
+- **Runtime Wind Control UI** — in-game panel with input fields for wind speed, strength, direction, and turbulence, all applied instantly without scene restart
 - **Falling Leaves** — 32 particle systems distributed across the forest at canopy height, drifting in the wind direction using world-space velocity
 - **Physics Objects** — lightweight sphere responds to directional wind force using Rigidbody and continuous ForceMode
-- **First-Person Explorer** — WASD movement with mouse look; ESC to unlock cursor for UI interaction, right-click to re-lock
+- **First-Person Explorer** — WASD movement with mouse look, ESC to unlock cursor for UI interaction, right-click to re-lock
 
 ---
 
