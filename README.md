@@ -117,7 +117,7 @@ The Wind Settings panel is opened via a button in the top-right corner. All chan
 ## Author
 
 **Heet Gohel**
-B.Tech AI & Data Science Graduate — ADIT, 2026
+B.Tech AI & Data Science Graduate — 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heet--gohel-blue)](https://www.linkedin.com/in/heet-gohel-531670251)
 [![itch.io](https://img.shields.io/badge/itch.io-qu1x0try-red)](https://itch.io/profile/qu1x0try)
