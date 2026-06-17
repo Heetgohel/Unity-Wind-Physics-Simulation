@@ -15,7 +15,7 @@ A realistic outdoor 3D environment in Unity featuring terrain, trees, grass, roc
 
 > Screenshot of scene with wind settings UI open
 
-![Scene Preview](screenshots/scene_preview.png)
+![Scene Preview](scene_preview.png)
 
 ---
 
